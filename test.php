@@ -10,3 +10,6 @@
   echo $week[date("w")];
 ?>
 曜日です。</p>
+
+kyoko
+kageyama
